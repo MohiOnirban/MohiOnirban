@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently studying at NJUPT, preparing for a career in robotics.<br>🤝 I’m looking to collaborate on projects in robotics, C++, and web development.<br>🌱 I’m currently learning C++ and Java, building on my skills in Python, C, and front-end web development.<br>💬 Ask me about programming, robotics, and web development.<br>⚡ Fun fact: I’m passionate about blending technology with creativity to solve real-world problems!<br>
+📚 I'm currently studying at NJUPT, preparing for a career in robotics Engineering.<br>🤝 I’m looking to collaborate on projects in robotics, C++, and web development.<br>🌱 I’m currently learning C++ and Java, building on my skills in Python, C, and front-end web development.<br>💬 Ask me about programming, robotics, and web development.<br>⚡ Fun fact: I’m passionate about blending technology with creativity to solve real-world problems!<br>
 
 
 ## 🌐 Socials:
